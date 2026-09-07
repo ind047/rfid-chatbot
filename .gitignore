@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Chroma vector database
+chroma_db/
+
+# Nested clone of zetavg/Inventory
+rfid_repo/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
